@@ -1,0 +1,22 @@
+{
+  "name": "The Celestial 28 Lottery",
+  "short_name": "Celestial 28",
+  "description": "A mystical fortune-telling application based on the 28 Chinese Lunar Mansions.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#0f172a",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3815/3815448.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3815/3815448.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
